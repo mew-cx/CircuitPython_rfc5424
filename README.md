@@ -1,0 +1,9 @@
+# CircuitPython_rfc5424
+
+This library implements the syslog message formatting specified by RFC5424.
+- https://datatracker.ietf.org/doc/html/rfc5424 : "The Syslog Protocol"
+
+This does not actually transmit its results by any transport; it is left
+to the caller to send the results by whatever means.
+
+The formatting specifications are primarily under Section 6 of the RFC.
