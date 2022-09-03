@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2022 Michael Weiblen http://mew.cx/
+# SPDX-FileCopyrightText: 2022 Michael E. Weiblen http://mew.cx/
 #
 # SPDX-License-Identifier: MIT
 
@@ -13,8 +13,8 @@ https://datatracker.ietf.org/doc/html/rfc5424 : "The Syslog Protocol"
 
 import time
 
-__version__ = "0.0.0.0"
-__repo__ = "https://github.com/mew-cx/dust_runtime.git"
+__version__ = "1.0.0.0"
+__repo__ = "https://github.com/mew-cx/CircuitPython_rfc5424"
 
 #############################################################################
 # Enumerations
