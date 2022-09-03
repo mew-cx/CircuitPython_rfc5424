@@ -78,7 +78,7 @@ def FormatSyslog(facility = Facility.USER,
     if msg:
         result += b" " + msg.encode(enc)
 
-    print(repr(result))    # uncomment for debugging output
+    #print(repr(result))    # uncomment for debugging output
     return result
 
 # vim: set sw=4 ts=8 et ic ai:
