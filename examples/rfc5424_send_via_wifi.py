@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT
 
-# simple_test.py
+# rfc5424_send_via_wifi.py
 # Review the RFC to understand what the fields mean:
 # https://datatracker.ietf.org/doc/html/rfc5424 : "The Syslog Protocol"
 
